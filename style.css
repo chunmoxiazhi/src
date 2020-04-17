@@ -180,7 +180,7 @@ nav {
     background-color:#f5b971;
     color: black;
     border: 4px solid black;
-    font-family: 'Righteous', cursive;
+   
   }
 
   .category {width: 18%;}
@@ -196,7 +196,7 @@ nav {
  
     width: 100%}
   
-    @media only screen and (max-width: 1000px) { /*MOBILE LANDSCAPE*/
+    @media only screen and (max-width: 670px) { /*MOBILE LANDSCAPE*/
       .header{
         font-size: 18px;
         padding: 3px;
@@ -229,7 +229,7 @@ nav {
         }
 
     }
-@media only screen and (max-width: 768px) { /*MOBILE PORTRAIT*/
+@media only screen and (max-width: 480px) { /*MOBILE PORTRAIT*/
   .header{
     font-size: 15px;
     padding: 2px;
