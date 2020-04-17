@@ -12,6 +12,12 @@
   background-color: #ffecc7;
   display: flex;
 }
+section form{
+  width: 100%;
+  font-size: 20px;
+  padding: 40px;
+  margin: 0;
+}
 section {
 
   font-family:  'Yanone Kaffeesatz', sans-serif;
@@ -19,17 +25,22 @@ section {
 }
 section h1 {
   font-size: 65px;
-  padding: 40px;
+  padding:40px;
+  
   margin: 0;
 }
 section h2 {
+  padding-top: 40px;
+  padding-left: 40px;
   font-size: 50px;
-  padding: 40px;
+  
   margin: 0;
 }
 section h3 {
+  
+  padding-left: 40px;
   font-size: 40px;
-  padding: 40px;
+  
   margin: 0;
 }
 
@@ -42,6 +53,7 @@ input[type=submit]{
 
   font-family:  'Yanone Kaffeesatz', sans-serif;
   font-weight: bold;
+  font-size: 20px;
 }
 #logo{
   margin-left: auto;
